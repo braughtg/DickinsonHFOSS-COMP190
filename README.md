@@ -32,7 +32,7 @@ While produced for use during a semester of remote instruction, the presentation
 
 ## Course Materials & Outline:
 
-Logically the course is divided into three topics, each with individual course meetings and activities as outlined below. A brief description of each topic and the titles of each of its class meetings are provided.  For each class meeting the Power Point slide deck for the introduction and the activities assigned are linked below. All of the material can also be downloaded as [a single zip file](materials/COMP190Materials.zip).
+A [Syllabus](materials/syllabus.pdf) used in the course in fall 2020 is available.  Logically the course is divided into three topics, each with individual course meetings and activities as outlined below. A brief description of each topic and the titles of each of its class meetings are provided.  For each class meeting the Power Point slide deck for the introduction and the activities assigned are linked below. Alternatively, all of the material can also be downloaded as [a single zip file](materials/COMP190Materials.zip).
 
 For each meeting the introductory lecture is intended to be a _near minimal_ introduction to the content necessary to begin the activities. They try to provide context, convey the big ideas, essential vocabulary, and to clarify particularly troublesome details. The activities then both both review the key points of the lectures and guide students through good practices for independent learning of new material. The activities ask a variety of questions ranging from very direct facts that focus in on essential terms and ideas, to reporting results that confirm and reinforce hands-on steps, to more open questions that ask them to apply or reflect on the content of the activity.
 
@@ -66,9 +66,9 @@ Students explore the structure, licensing and documentation of a number of matur
 
 ## Student Surveys & Analysis
 
-Students were asked to complete a Likert-scale pre/post course survey to assess their attitudes towards H/FOSS and their perceptions of what they learned in the course.  The questions asked in the survey were identical for the pre/post surveys. The questions on the survey and the breakdown of student agreement with each statement before and after the course are shown in Figure 1.  The [full survey](materials/COMP190PrePostSurvey.pdf) is also available as a pdf.
+Students were asked to complete a Likert-scale pre/post course survey to assess their attitudes towards H/FOSS and their perceptions of what they learned in the course.  The questions asked in the survey were identical for the pre/post surveys. The questions on the survey and the breakdown of student agreement with each statement before and after the course are shown in Figure 1.  The [full survey](resources/COMP190PrePostSurvey.pdf) is also available as a pdf.
 
-[![Survey Results](materials/SurveyResults.png)](materials/SurveyResults.png)
+[![Survey Results](resources/SurveyResults.png)](resources/SurveyResults.png)
 
 __Figure 1__: Pre/post course survey question and results.  Each bar represents 100% of student responses with the size of each color representing the fraction of students that expressed the indicated level of agreement. The pre-survey was completed by n=20 students and the post-survey was completed by n=14 students. Click the image for the full size version.
 
