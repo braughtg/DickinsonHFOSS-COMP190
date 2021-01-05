@@ -117,7 +117,7 @@ Partial support for the development of these materials has been provided by:
 I want to thank the following individuals for their unique contributions to this project:
   - Tim Wahls, good friend and computer science faculty at Dickinson, who led the development of the original FarmData and AnimalData projects. We miss you Tim!
   - Matt Steiman, farmer at the Dickinson College Farm, it is his collaboration with Tim that made the original FarmData/AnimalData possible. It is his patience and generosity with his time that are now making FarmData2 possible.
-  - Mike Stenta and the team at [Farm OS](https://farmos.org/), on which FarmData2 runs, for their awesome platform and the open, helpful and welcoming community that they have built around it.
+  - Mike Stenta and the team at [FarmOS](https://farmos.org/), on which FarmData2 runs, for their awesome platform and the open, helpful and welcoming community that they have built around it.
   - Allen Tucker at [The Non-Profit FOSS Institute](https://npfi.org) for his early work porting FarmData/AnimalData to FarmOS and his continuing contributions to both FarmData2 and to HFOSS in education more broadly.
   - Michael Skalak, computer science faculty at Dickinson, who's work in understanding the FarmOS system and who's continuous work on FarmData2 is essential to its success.
   - Stony Jackson & Heidi Ellis at Western New England College and Karl Wurst at Worcester State University for their insights and advice in getting the FarmData2 project off the ground as a new HFOSS project targeted at student participation.
