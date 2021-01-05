@@ -44,7 +44,7 @@ Students use a virtual machine environment ([VirtualBox](https://www.virtualbox.
 1. __Shell Commands:__ [Slide Deck](materials/02-S-UnixAndShell.pptx) | [Activity Sheet](materials/02-A-UnixAndShell.docx)
 1. __Command Line Tools and Filters:__ [Slide Deck](materials/03-S-UnixTools.pptx) | [Activity Sheet](materials/03-A-UnixTools.docx)
 1. __Shell Scripting:__ [Slide Deck](materials/04-S-ShellScripting.pptx) | [Activity Sheet](materials/04-A-ShellScripting.docx)
-1. __Basic System Administration:__ [Slide Deck](materials/05-S-SystemAdmin.pptx) | [Activity Sheet](materials/05-S-SystemAdmin.docx)
+1. __Basic System Administration:__ [Slide Deck](materials/05-S-SystemAdmin.pptx) | [Activity Sheet](materials/05-A-SystemAdmin.docx)
 
 #### B. Free and Open Source Software
 
